@@ -1,3 +1,11 @@
+/*
+Coded by Nick Newman
+7/9/24
+Summer 24
+Comp Sci 1
+Dr. Tanvir Ahmed
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
